@@ -1,0 +1,1 @@
+# This addon only extends backend assets.
